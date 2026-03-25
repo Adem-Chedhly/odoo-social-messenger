@@ -34,8 +34,8 @@ Requirements
 This module uses the Meta Graph API v21.0.
 No external Python dependencies required beyond Odoo's standard libraries.
     """,
-    'author': 'Your Name Here',
-    'website': 'https://github.com/your-username/odoo-social-messenger',
+    'author': 'Adem Chedhly',
+    'website': 'https://github.com/Adem-Chedhly/odoo-social-messenger',
     'license': 'LGPL-3',
     'depends': [
         'base',
